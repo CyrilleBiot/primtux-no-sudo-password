@@ -1,0 +1,5 @@
+primtux-no-sudo-password (1.0) unstable; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Cyrille Biot <cyrille@cbiot.fr>  Tue, 02 Mar 2021 20:56:09 +0100

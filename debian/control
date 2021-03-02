@@ -1,0 +1,12 @@
+Source: primtux-no-sudo-password
+Section: System
+Priority: extra
+Maintainer: Cyrille Biot <cyrille@cbiot.fr>
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/CyrilleBiot/primtux-no-sudo-password
+
+Package: primtux-no-sudo-password
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, sudo
+Homepage: https://github.com/CyrilleBiot/primtux-no-sudo-password
+Description: Permet à l'utilisateur administrateur d'un système Printux de lancer sudo sans mot de passe.

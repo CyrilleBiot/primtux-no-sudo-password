@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "-----------------------------------------------------------------------"
+echo "primtux-no-sudo-password est installé."
+echo "ATTENTION : Pas besoin de rebooter, une déconnexion est nécessaire"
+echo "pour que les modifications soient prises en compte."
+echo "-----------------------------------------------------------------------"
+exit 0
