@@ -1,1 +1,2 @@
 source/90-primtux-no-sudo-password etc/sudoers.d/
+source/primtux-no-sudo-password.8.gz usr/share/man/man8/

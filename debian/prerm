@@ -1,7 +1,5 @@
 #!/bin/bash
 echo "-----------------------------------------------------------------------"
-echo "Delete sym links"
-rm -f  usr/bin/create_autostart_launcher
-echo "Symbolic links deleted."
+echo "primtux-no-sudo-password desinstallé.
 echo "-----------------------------------------------------------------------"
 exit 0
