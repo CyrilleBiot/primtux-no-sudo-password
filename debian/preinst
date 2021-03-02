@@ -1,3 +1,2 @@
 #!/bin/bash
-if [ -d "/usr/share/man/man8/" ] && echo "Le dossier existe. On passe." || echo "Erreurr: Le dossier n'existe pas, on le crée." && mkdir /usr/share/man/man8/ 
-exit 0
+if [ -d "/usr/share/man/man8/" ] && echo "Le dossier existe. On passe." || mkdir /usr/share/man/man8/ ; echo "Le dossier /usr/share/man/man8/ a été créé"
