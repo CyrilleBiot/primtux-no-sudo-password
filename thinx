@@ -1,0 +1,3 @@
+90-primtux-no-sudo-password
+
+administrateur ALL=(ALL) NOPASSWD:ALL
